@@ -1,0 +1,33 @@
+* {
+    font-family: Helvetica;
+    font-size: 18px;
+}
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(file:///C:/Users/Nicolas/Documents/Projects%20CA/WEEK%202/Dasmoto/Resources/IMAGE%201%20DASMOTO.jpeg);
+}
+h2
+{
+font-size: 32px;
+font-weight: bold;
+color: white
+}
+h3 {
+  font-size: 22px;
+}
+.brush {
+  background-color: mediumspringgreen;
+}
+.frame {
+  background-color: lightcoral;
+}
+.paint {
+  background-color: skyblue;
+}
+.pricing
+{
+  color:blue;
+}
